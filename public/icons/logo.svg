@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#E0F7F4" stroke="#4CAF88" stroke-width="2"/>
+  
+  <!-- Heart pulse line -->
+  <path d="M 40 100 L 60 100 L 70 85 L 80 110 L 90 95 L 100 105 L 110 80 L 120 120 L 130 100 L 150 100 L 160 100" 
+        stroke="#4CAF88" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Heart shape in the center -->
+  <path d="M 100 125 C 100 125, 85 115, 85 105 C 85 98, 90 93, 95 93 C 97.5 93, 100 95, 100 95 C 100 95, 102.5 93, 105 93 C 110 93, 115 98, 115 105 C 115 115, 100 125, 100 125 Z" 
+        fill="#4CAF88" stroke="#2E7D6E" stroke-width="1"/>
+  
+  <!-- Leaf accent (top right) -->
+  <path d="M 140 65 Q 150 55, 160 60 Q 150 70, 140 75 Z" 
+        fill="#7BC497" stroke="#4CAF88" stroke-width="1"/>
+  
+  <!-- Text -->
+  <text x="100" y="160" font-size="16" font-weight="bold" text-anchor="middle" fill="#2E7D6E" font-family="Arial, sans-serif">VitalFlow</text>
+</svg>

@@ -1,8 +1,7 @@
-<img src="./public/icons/logo.svg" alt="Vital App Logo" width="50" height="50">
+
 
 # 🌿 VitalFlow - Your Personal AI Health Assistant
 
-<img src="./public/images/dashboard.png" alt="Vital App Logo">
 
 ## 🌟 Introduction
 
